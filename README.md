@@ -1,4 +1,4 @@
-![能够解bootloader锁的国产手机怎么样？](https://github.com/jhhua/zhihu_article_for_me/assets/69577632/c27f4e0a-8888-4d1c-9649-f1c5a0624366)# zhihu_article_for_me
+# zhihu_article_for_me
 我的知乎文章备份...my zhihu article.
 
 # 备份
@@ -53,6 +53,7 @@ https://github.com/jhhua/zhihu_article_for_me/blob/main/%E8%83%BD%E5%A4%9F%E8%A7
 
 
 + 有没有干净一点的社交软件?回答
+
 https://github.com/jhhua/zhihu_article_for_me/blob/main/%E6%9C%89%E6%B2%A1%E6%9C%89%E5%B9%B2%E5%87%80%E4%B8%80%E7%82%B9%E7%9A%84%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6%20-%20%E7%9F%A5%E4%B9%8E.jpg?raw=true
 
 
