@@ -51,6 +51,8 @@ https://github.com/jhhua/zhihu_article_for_me/blob/main/2023%E5%B9%B4%E7%BB%88%E
 
 https://github.com/jhhua/zhihu_article_for_me/blob/main/%E8%83%BD%E5%A4%9F%E8%A7%A3bootloader%E9%94%81%E7%9A%84%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.jpg?raw=true
 
+这个文章我没有推华为以及其他的国产手机，结果就删帖了，看来华为是奉旨卖货，关系户啊，没法任何违规信息就给我删掉了
+
 
 + 有没有干净一点的社交软件?回答
 
