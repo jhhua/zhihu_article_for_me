@@ -26,7 +26,8 @@
 ```
 
 # 删帖列表，注意：知乎里又找不到这篇文章，把截图的文章重发到这里进行备份
-声明：关于一些知友私信我的一些世界级难题
++ 声明：关于一些知友私信我的一些世界级难题
+
 https://github.com/jhhua/zhihu_article_for_me/blob/main/%E5%A3%B0%E6%98%8E%EF%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E7%9F%A5%E5%8F%8B%E7%A7%81%E4%BF%A1%E6%88%91%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%96%E7%95%8C%E7%BA%A7%E9%9A%BE%E9%A2%98%20(2024%E5%B9%B41%E6%9C%8829%E6%97%A5%20%E4%B8%8A%E5%8D%886_50%EF%BC%89.jpg?raw=true
 
 
