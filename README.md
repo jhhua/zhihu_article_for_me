@@ -32,7 +32,7 @@
 # 新贴列表，说明：一些可能也会删除、禁止访问，这里用来存放在这之后新发布的文章
 + 新贴备份
 
-https://github.com/jhhua/zhihu_article_for_me/new_article
+https://github.com/jhhua/zhihu_article_for_me/tree/main/new_article
 
 
 
