@@ -29,13 +29,14 @@
 ### 个人中心截图浏览
 呃呃 - 知乎 个人中心截图，2024-01-31.jpg   [链接](https://github.com/jhhua/zhihu_article_for_me/blob/main/%E5%91%83%E5%91%83%20-%20%E7%9F%A5%E4%B9%8E%20%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%88%AA%E5%9B%BE%EF%BC%8C2024-01-31.jpg?raw=true "点击打开")
 
+# 新贴列表，说明：一些可能也会删除、禁止访问，这里用来存放在这之后新发布的文章
++ 新贴备份
+
+https://github.com/jhhua/zhihu_article_for_me/new_article
+
 
 
 # 删帖列表，注意：知乎里又找不到这篇文章，把截图的文章重发到这里进行备份
-
-+ 个人信息搜集清单(第三方sdk安全性探讨)
-
-https://github.com/jhhua/zhihu_article_for_me/blob/main/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%90%9C%E9%9B%86%E6%B8%85%E5%8D%95(%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E5%AE%89%E5%85%A8%E6%80%A7%E6%8E%A2%E8%AE%A8).png
 
 + 声明：关于一些知友私信我的一些世界级难题
 
