@@ -23,7 +23,11 @@
 腾讯微视号：SweetMe00   ，已绑定qq，2022年个人信息疑似被办，但可发动态
 腾讯微信视频号：SweetMe..   ，已绑定手机
 配音秀：163155246， 已绑定qq，2023年春季前后暂停使用
+知乎：e-e-69-93-71，已永久禁言
 ```
+https://github.com/jhhua/zhihu_article_for_me/blob/main/article_list/%E7%9F%A5%E4%B9%8E%E5%8F%B7%E5%B7%B2%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%20(1).jpg
+
+
 
 
 ### 个人中心截图浏览
