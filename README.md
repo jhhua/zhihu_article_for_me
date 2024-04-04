@@ -25,13 +25,22 @@
 配音秀：163155246， 已绑定qq，2023年春季前后暂停使用
 知乎：e-e-69-93-71，已永久禁言
 ```
-https://github.com/jhhua/zhihu_article_for_me/blob/main/article_list/%E7%9F%A5%E4%B9%8E%E5%8F%B7%E5%B7%B2%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%20(1).jpg
+
+
 
 
 
 
 ### 个人中心截图浏览
 呃呃 - 知乎 个人中心截图，2024-01-31.jpg   [链接](https://github.com/jhhua/zhihu_article_for_me/blob/main/%E5%91%83%E5%91%83%20-%20%E7%9F%A5%E4%B9%8E%20%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%88%AA%E5%9B%BE%EF%BC%8C2024-01-31.jpg?raw=true "点击打开")
+
+
+知乎已封号，链接
+ [链接]( https://github.com/jhhua/zhihu_article_for_me/blob/main/article_list/%E7%9F%A5%E4%B9%8E%E5%8F%B7%E5%B7%B2%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%20(3).jpg "点击打开")
+
+
+
+
 
 # 新贴列表，说明：一些可能也会删除、禁止访问，这里用来存放在这之后新发布的文章
 + 新贴备份
