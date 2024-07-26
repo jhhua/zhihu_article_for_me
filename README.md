@@ -36,11 +36,14 @@
 
 
 # 知乎已封号，链接
+```
 封号通知： [链接]( https://github.com/jhhua/zhihu_article_for_me/blob/main/article_list/%E7%9F%A5%E4%B9%8E%E5%8F%B7%E5%B7%B2%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%20(3).jpg "封号通知")
 最后的一条动态：[链接]( https://github.com/jhhua/zhihu_article_for_me/blob/main/%E7%9F%A5%E4%B9%8E%E5%B0%81%E5%8F%B7/%E9%80%9B%E6%B7%98%E5%AE%9D%E5%88%B7%E5%88%B0%E4%B8%80%E5%8A%A0ace3%E5%8E%9F%E7%A5%9E%E5%88%BB%E6%99%B4%E5%AE%9A%E5%88%B6%E6%9C%BA%EF%BC%8C%E6%83%B3%E8%B5%B7%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BA%8B.JPG "最后的一条动态，封号的那条") 部分截图：[链接]( https://github.com/jhhua/zhihu_article_for_me/blob/main/%E7%9F%A5%E4%B9%8E%E5%B0%81%E5%8F%B7/Screenshot_20240403_195921.jpg "部分图片")
-
-
-
+```
+当时李克强死的时候，网上就有传言，讲是包子皇帝干的，我当时还不信。
+但现在看知乎无缘无故把我号封了，这。。。。。。我开始信了，传言可能是真的。
+即使你说不是他干的，都要封号，这就意味深长了，呵呵，从图也看得出来，我讲的是原神
+网络传言： [链接]( https://github.com/jhhua/zhihu_article_for_me/blob/main/%E5%8E%9F%E7%A5%9E%E7%8E%A9%E5%AE%B6%E4%B8%8D%E5%8F%82%E4%B8%8E%E9%80%A0%E5%8F%8D%EF%BC%8C%E8%B0%A2%E8%B0%A2-%20%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%B9%8B%E6%AD%BB.jpg "传言")
 
 
 # 新贴列表，说明：一些可能也会删除、禁止访问，这里用来存放在这之后新发布的文章
