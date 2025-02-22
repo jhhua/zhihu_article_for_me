@@ -151,6 +151,7 @@ https://github.com/jhhua/zhihu_article_for_me/blob/main/%E7%BD%91%E7%BB%9C%E5%AE
 https://github.com/jhhua/zhihu_article_for_me/blob/main/%E5%8E%9F%E7%A5%9E%E7%8E%A9%E5%AE%B6%E4%B8%8D%E5%8F%82%E4%B8%8E%E9%80%A0%E5%8F%8D%EF%BC%8C%E8%B0%A2%E8%B0%A2.jpg
 
 李克强之死，网上有传是习近平干的，文章中“刻晴”，首字母KQ，暗指：克强
+而且事情刚传出来，就说是习近平干的了，何况外网又几乎无法溯源
 [链接](https://github.com/jhhua/zhihu_article_for_me/blob/main/%E5%8E%9F%E7%A5%9E%E7%8E%A9%E5%AE%B6%E4%B8%8D%E5%8F%82%E4%B8%8E%E9%80%A0%E5%8F%8D%EF%BC%8C%E8%B0%A2%E8%B0%A2-%20%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%B9%8B%E6%AD%BB.jpg)
 
 + 榨取的意义.jpg
